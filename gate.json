@@ -3,5 +3,20 @@
   "tier": "test",
   "expires": "2027-04-30",
   "admin": null,
-  "codes": []
+  "codes": [
+    {
+      "id": "L6BM",
+      "label": "friend1",
+      "salt": "a3KeaGMIoLUnPiwPuwHP3Q==",
+      "hash": "klyLYZKRX4AdcOzcjFKIwNp44Ty79CnEas2QYRYc7IE=",
+      "iterations": 20000
+    },
+    {
+      "id": "D87J",
+      "label": "friend2",
+      "salt": "7zPo+1z3FT4yen4vtjMVig==",
+      "hash": "7rkd+PpPqedCOdOuD/8cbgSfE1efUujZZ3FU5MF/AV8=",
+      "iterations": 20000
+    }
+  ]
 }
