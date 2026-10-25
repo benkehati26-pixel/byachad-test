@@ -7,22 +7,22 @@
     {
       "id": "L6BM",
       "label": "friend1",
-      "salt": "a3KeaGMIoLUnPiwPuwHP3Q==",
-      "hash": "klyLYZKRX4AdcOzcjFKIwNp44Ty79CnEas2QYRYc7IE=",
+      "salt": "O6zVHInZWIsrw0QYVMEADQ==",
+      "hash": "3jQEd5SCKf487ltiqm9yd5Q580gU5I1LSgpBz8Fy+6A=",
       "iterations": 20000
     },
     {
       "id": "D87J",
       "label": "friend2",
-      "salt": "7zPo+1z3FT4yen4vtjMVig==",
-      "hash": "7rkd+PpPqedCOdOuD/8cbgSfE1efUujZZ3FU5MF/AV8=",
+      "salt": "+iChABMO/bfj89Ng07GbFA==",
+      "hash": "Q2eJmbkEcQpNZdAhLkWRYKmvWAHg1ua2PzNw3H7kHnE=",
       "iterations": 20000
     },
     {
       "id": "XHTQ",
       "label": "momi",
-      "salt": "usxAPde13IvSUnl5GvU4JQ==",
-      "hash": "YMeuUtmaJiFvl73gaosQI6FQctgXuKkGnbWuOG8bbuk=",
+      "salt": "tp/a7/NRNL9HG8aqLEjtng==",
+      "hash": "PPd5/kYlZDXSYe1obUFa9kQqAr5wnwP12kFLNWjhNHs=",
       "iterations": 20000
     }
   ]
