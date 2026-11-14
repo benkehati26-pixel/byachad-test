@@ -1,4 +1,4 @@
-const C='byachad-v2-14';
+const C='byachad-v2-15';
 self.addEventListener('install',e=>{self.skipWaiting();e.waitUntil(caches.open(C).then(c=>c.addAll(['./','./index.html'])))});
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(x=>x!==C).map(x=>caches.delete(x)))).then(()=>self.clients.claim())));
 const keep=(req,res)=>{if(res&&res.ok&&res.type==='basic'){const cl=res.clone();caches.open(C).then(c=>c.put(req,cl))}return res};
